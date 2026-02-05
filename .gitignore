@@ -68,5 +68,8 @@ ios/build/
 # === ENV / SECRETS ===
 secrets_dump.json
 .env
-.env.*
+.env.local
+.env.production
+.env.development
+
 
