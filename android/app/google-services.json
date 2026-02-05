@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039619163878",
+    "project_id": "padelpush-app",
+    "storage_bucket": "padelpush-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039619163878:android:e2211b4ce05acc1ed49d27",
+        "android_client_info": {
+          "package_name": "com.example.padelpush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOyGbl8yodFfLxeXDhoniCpmcHCGkmaDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
